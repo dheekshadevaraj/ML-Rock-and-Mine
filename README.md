@@ -1,5 +1,5 @@
 
-# 🎯 Rock vs Mine Prediction using Machine Learning
+# 💣 Rock vs Mine Prediction using Machine Learning
 
 This project is a binary classification model that predicts whether an object is a **rock** or a **mine** using sonar signal data. It leverages supervised machine learning techniques to accurately classify sonar returns in a defense-oriented context.
 
@@ -61,13 +61,10 @@ This is critical for applications in **marine navigation**, **defense**, and **a
 2. Upload the dataset if not already embedded.
 3. Run all cells to train the model and make predictions.
 
-## 🤝 Contributing
+## 💼 About Me
 
-Contributions, suggestions, and PRs are welcome! Let's make sonar smarter.
-
-## 📜 License
-
-MIT License – feel free to use and adapt.
+I'm a data analyst passionate about transforming raw data into meaningful business insights.  
+📌 [LinkedIn](https://www.linkedin.com/in/dheeksha-devaraj-274336241/) | 🌐 [Portfolio](https://dheekshadevarajdd.framer.ai/) | ✉️ [Email](dheekshadevaraj01@gmail.com)
 
 ---
 
