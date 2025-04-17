@@ -64,7 +64,7 @@ This is critical for applications in **marine navigation**, **defense**, and **a
 ## 💼 About Me
 
 I'm a data analyst passionate about transforming raw data into meaningful business insights.  
-📌 [LinkedIn](https://www.linkedin.com/in/dheeksha-devaraj-274336241/) | 🌐 [Portfolio](https://dheekshadevarajdd.framer.ai/) | ✉️ [Email](dheekshadevaraj01@gmail.com)
+📌 [LinkedIn](https://www.linkedin.com/in/dheeksha-devaraj-274336241/) | 🌐 [Portfolio](https://dheekshadevarajdd.framer.ai/) | ✉️ [Email](mailto:dheekshadevaraj01@gmail.com)
 
 ---
 
